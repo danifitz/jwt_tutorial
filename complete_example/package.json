@@ -24,6 +24,9 @@
   },
   "homepage": "https://github.com/danifitz/jwt_tutorial#readme",
   "dependencies": {
-    "express": "^4.13.3"
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "express-path": "^0.3.8",
+    "jsonwebtoken": "^5.0.5"
   }
 }
